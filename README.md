@@ -130,3 +130,9 @@ Hugging Face for the Transformers library.
 FAISS for efficient retrieval indexing.
 ImageBind for multimodal embeddings.
 Open-source datasets like MovieLens and others.
+
+
+
+# IN PROCESS:
+## ✅ fine tune LLama 3.2 multimodal
+## ...
