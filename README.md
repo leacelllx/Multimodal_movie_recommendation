@@ -134,5 +134,5 @@ Open-source datasets like MovieLens and others.
 
 
 # IN PROCESS:
-## ✅ fine tune LLama 3.2 multimodal
-## ...
+## ✅ fine tune LLama 3.2 multimodal (overfitted will add evaluation)
+## ✅  Got embeddings 
