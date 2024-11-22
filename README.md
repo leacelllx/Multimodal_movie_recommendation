@@ -2,7 +2,6 @@
 
 An advanced movie recommendation system leveraging **LLaMA 3.2** and multimodal data (text, images, audio, and video metadata) to generate personalized and emotion-aware suggestions. The project integrates Retrieval-Augmented Generation (RAG) for retrieving and recommending movies based on user preferences.
 
-<img width="1143" alt="Screenshot 2024-11-22 at 11 21 41 AM" src="https://github.com/user-attachments/assets/9cb697b3-d058-4dac-a38f-7832e8337f2d">
 ---
 
 ## 🚀 **Features**
